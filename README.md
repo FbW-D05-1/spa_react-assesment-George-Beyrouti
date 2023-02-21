@@ -64,14 +64,14 @@
 11. (multiple answer) Which of the following statement is correct about handling events with React
 
     - [ ] React elements are very similar to handling events on DOM elements
-    - [x] React events are named using camelCase, rather than lowercase
-    - [x] With JSX you pass a function as the event handler, rather than a string
-    - [ ] All of the above
+    - [ ] React events are named using camelCase, rather than lowercase
+    - [ ] With JSX you pass a function as the event handler, rather than a string
+    - [x] All of the above
 
 12. (T/F) React elements are immutable. Once you create an element, you can’t change its children or attributes.
 
-    - [ ] True
-    - [x] False
+    - [x] True
+    - [ ] False
 
 13. (multiple answer) What do you understand by refs in React?
 
@@ -83,8 +83,8 @@
 14. (multiple answer) Which of the following statements is correct about React Forms?
 
     - [x] React forms are similar to HTML forms but work a little bit differently
-    - [x] The form doesn't have the default HTML form behaviour
-    - [ ] Form elements maintain their own state
+    - [ ] The form doesn't have the default HTML form behaviour
+    - [x] Form elements maintain their own state
     - [ ] Mutable states are kept in the state property of components
     - [ ] The states are not updated
     - [ ] None of the above
@@ -95,19 +95,19 @@
 
 16. (multiple answer) Which of the following is a hook
 
-    - [x] useState
-    - [x] useEffect
-    - [x] useContext
+    - [ ] useState
+    - [ ] useEffect
+    - [ ] useContext
     - [ ] useDom
-    - [ ] All of the above
+    - [x] All of the above
 
 17. (multiple answer) When using hooks...
 
-    - [x] only call hooks at the top level
+    - [ ] only call hooks at the top level
     - [ ] avoid using too many in the same component
-    - [x] only call hooks from React functions
-    - [x] you can create your custom hook
-    - [ ] All of the above
+    - [ ] only call hooks from React functions
+    - [ ] you can create your custom hook
+    - [x] All of the above
 
 18. (T/F) Context provides a way to pass data through the component tree without having to pass props down manually at every level.
 
